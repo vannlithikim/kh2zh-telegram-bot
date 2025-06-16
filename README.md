@@ -62,7 +62,7 @@
 
 ### 1. Find the Bot on Telegram
 🔍 Search for **@YourBotName** in Telegram  
-(or click this link:[ [t.me/YourBotName](https://t.me/YourBotName)](https://t.me/khmer_chinese_bot).)
+(or click this link: (https://t.me/khmer_chinese_bot))
 
 ### 2. Start a Chat
 💬 Click the **"Start"** button or send `/start` command
