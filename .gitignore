@@ -1,0 +1,11 @@
+# Python
+bot_env/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Docker
+*.swp
+.DS_Store
